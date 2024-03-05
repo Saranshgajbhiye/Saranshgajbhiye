@@ -58,16 +58,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Saranshgajbhiye/Saranshgajbhiye/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ßàrãnsh Gâjbhiyé">
-    <img src="https://open.spotify.com/collection/tracks" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
